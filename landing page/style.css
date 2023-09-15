@@ -1,0 +1,77 @@
+header{
+    height: 100px;
+}
+
+.headerLink {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 86px;
+    margin-bottom: 39px;
+}
+
+.item {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    margin-bottom: 39px;
+}
+
+.btn {
+    border-radius: 6px;
+    width: 160px;
+    height: 50px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #ED4C5C;
+}
+
+h2,h3 {
+     font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.headingtext {
+    margin-bottom: 39px;
+}
+
+.text {
+    font-size: 14px;
+    line-height: 140%;
+    margin-bottom: 14px;
+}
+
+.LinkLearnMore {
+     font-size: 14px;
+    line-height: 140%;
+    color: #ED4C5C;
+}
+
+.secondHeading{
+    margin-bottom: 63px;
+}
+
+.heading2 {
+    margin-top: 33px;
+    margin-bottom: 20px;
+}
+
+.text2 {
+    margin-bottom: 5px;
+}
+
+.head3{
+    margin-bottom: 45px;
+}
+
+.footer {
+    height: 110px;
+}
